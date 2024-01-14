@@ -372,6 +372,11 @@ table h2 {
     flex: 100%;
   }
   .contact-dados{
-    font-size: 18px;
+    font-size: 16px;
   }
+
+  .a{
+    font-size: 16px;
+  }
+
 }
